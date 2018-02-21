@@ -14,3 +14,13 @@
   background-size: cover;
   height: 1000px;
 }
+
+.ui.massive.message {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  font-size: 35px;
+  color: #FFF;
+  font-family: 'Raleway', sans-serif;
+
+}
