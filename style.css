@@ -1,0 +1,16 @@
+.ui.massive.borderless.top.fixed.menu {
+  box-shadow: none;
+  border: none;
+  font-size: smaller;
+}
+
+.ui.massive.compact.inverted.borderless.bottom.fixed.menu {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+}
+.grad-background {
+  background: url('http://talenthrsolutions.com/web/wp-content/uploads/2017/11/background01.jpg?id=2331') no-repeat center center;
+  background-size: cover;
+  height: 1000px;
+}
